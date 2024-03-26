@@ -15,22 +15,18 @@ msgstr ""
 "X-Domain: product-reports-for-woocommerce\n"
 
 #. Plugin Name of the plugin
-#: C:\xampp\htdocs\wp\wp-content\plugins\product-reports-for-woocommerce\product-reports-for-woocommerce.php
 msgid "Product Reports for WooCommerce"
 msgstr ""
 
 #. Description of the plugin
-#: C:\xampp\htdocs\wp\wp-content\plugins\product-reports-for-woocommerce\product-reports-for-woocommerce.php
 msgid "Effortlessly Export WooCommerce Product Data to CSV with Versatile Filtering Options"
 msgstr ""
 
 #. Author of the plugin
-#: C:\xampp\htdocs\wp\wp-content\plugins\product-reports-for-woocommerce\product-reports-for-woocommerce.php
 msgid "Step3 Digital"
 msgstr ""
 
 #. Author URI of the plugin
-#: C:\xampp\htdocs\wp\wp-content\plugins\product-reports-for-woocommerce\product-reports-for-woocommerce.php
 msgid "https://step3.digital"
 msgstr ""
 
